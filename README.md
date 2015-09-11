@@ -2,8 +2,8 @@
 
 $ ./getIssues.py -?<br>
 Usage: getIssues.py [flag] [...]<br>
-Where flag is one or more of the following options:
---auth=<filename>	Specify name of file containing API credentials
---detailed		Displays details of each issue reported by Halo
---scan=<type_or_types>	Limit results to one or more scan types (comma separated)
---base=<url>		Specify the URL of the Halo REST API
+Where flag is one or more of the following options:<br>
+--auth=<filename>	Specify name of file containing API credentials<br>
+--detailed		Displays details of each issue reported by Halo<br>
+--scan=<type_or_types>	Limit results to one or more scan types (comma separated)<br>
+--base=<url>		Specify the URL of the Halo REST API<br>
