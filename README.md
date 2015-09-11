@@ -1,6 +1,7 @@
 # v2_issues_ga
 
 $ ./getIssues.py -?<br>
+<br>
 Usage: getIssues.py [flag] [...]<br>
 Where flag is one or more of the following options:<br>
 --auth=<filename>	Specify name of file containing API credentials<br>
