@@ -1,7 +1,7 @@
 # v2_issues_ga
 
-$ ./getIssues.py -?
-Usage: getIssues.py [flag] [...]
+$ ./getIssues.py -?<li>
+Usage: getIssues.py [flag] [...]<li>
 Where flag is one or more of the following options:
 --auth=<filename>	Specify name of file containing API credentials
 --detailed		Displays details of each issue reported by Halo
