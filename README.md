@@ -1,4 +1,4 @@
-# v2_issues_ga
+# Usage for the getIssues.py script
 
 $ ./getIssues.py -?<br>
 <br>
